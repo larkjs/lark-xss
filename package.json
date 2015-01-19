@@ -1,0 +1,28 @@
+{
+  "name": "lark-xss",
+  "version": "0.1.0",
+  "description": "xss middleware for lark.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larkjs/lark-xss.git"
+  },
+  "keywords": [
+    "xss",
+    "koa",
+    "lark",
+    "koa-xss"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larkjs/lark-xss/issues"
+  },
+  "homepage": "https://github.com/larkjs/lark-xss",
+  "dependencies": {
+    "xss": "^0.1.17"
+  }
+}
